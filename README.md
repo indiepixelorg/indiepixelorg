@@ -4,7 +4,7 @@ I'm passionate about building things and sharing my journey with the world. Welc
 
 ## About Me
 
-- 🚀 I'm on a mission to hit $1M USD in ARR.
+- 🚀 I want to make a living from my side projects.
 - 🌱 I share my learnings along the way on [Twitter](https://twitter.com/indiepixelorg).
 - 💻 I specialize in web development and great UI/UX.
 
